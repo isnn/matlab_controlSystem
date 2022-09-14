@@ -1,5 +1,9 @@
 Nama : Isnan Firmansyah
+
 NIM : 19/445567/PA/19391
+
+
+[https://github.com/isnn/matlab_controlSystem/tree/main/integral%20effect%20control](https://github.com/isnn/matlab_controlSystem/tree/main/integral%20effect%20control)
 
 ```
 % Declare variable
@@ -32,4 +36,20 @@ stepinfo(complete)
 
 Task  
 1. visualisasikan response untuk beberapa Kp dan Ki
+
+  stepresponse
+  ![alt text](stepResponseAll.jpg)
+  
+  impulseresponse
+  
+  ![alt text](impulseResponseAll.jpg)
+  
+  rampresponse
+  
+  ![alt text](rampResponseAll.jpg)
+    
 2. analisis dari setiap responnya
+  
+  analysisresponse
+  
+  ![alt text](analysisResponseAll.jpg)
