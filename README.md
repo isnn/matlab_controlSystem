@@ -1,2 +1,2 @@
 # matlab_controlSystem
-code of control system
+Control system Subject repository
